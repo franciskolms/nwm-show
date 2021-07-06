@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project purpose
 
-## Available Scripts
+This project was created for portfolio preview purposes
+
+## Install procedure
 
 In the project directory, you can run:
 
